@@ -8,5 +8,5 @@ You will need to replace %ORG_NAME% and %CONFIGURATION_ID% in your override.
 
 %ORG_NAME% and %CONFIGURATION_ID% are from the TeamViewer QS customizer, see Screenshot:
 
-![Get ORG_NAME and CONFIGURATION_ID](TeamViewer/get-orgname-and-id.png?raw=true "Get ORG_NAME and CONFIGURATION_ID")
+![Get ORG_NAME and CONFIGURATION_ID](./get-orgname-and-id.png?raw=true "Get ORG_NAME and CONFIGURATION_ID")
 
