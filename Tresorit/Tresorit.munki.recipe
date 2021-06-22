@@ -33,7 +33,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.jannheider.download.Tresorit</string>
+	<string>com.github.ahousseini-recipes.download.Tresorit</string>
 	<key>Process</key>
 	<array>
 		<dict>
